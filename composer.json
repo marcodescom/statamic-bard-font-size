@@ -1,0 +1,20 @@
+{
+    "name": "arckinteractive/statamic-bard-font-size",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arckinteractive\\StatamicBardFontSize\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Statamic Bard Font Size",
+            "description": "Statamic Bard Font Size addon"
+        },
+        "laravel": {
+            "providers": [
+                "Arckinteractive\\StatamicBardFontSize\\ServiceProvider"
+            ]
+        }
+    }
+}

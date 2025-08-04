@@ -1,5 +1,5 @@
 {
-    "name": "arckinteractive/statamic-bard-font-size",
+    "name": "marcodes/statamic-bard-font-size",
     "license": "MIT",
     "autoload": {
         "psr-4": {
